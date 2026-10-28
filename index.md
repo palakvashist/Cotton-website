@@ -11,10 +11,10 @@ A spatial history of how this place is connected to the larger world.
 
 Bombay is the Western region of Inida. It is a port city which was famous for its cotton manufacturing in the colonial times.
 
-![a short caption](images/mill.jpg)
+![The working of the mill](images/mill.jpg)
 
-![a short caption](images/mill1.jpg)
+![The glorius Bombay Mills](images/mill1.jpg)
 
-![a short caption](images/mill3.jpg)
+![Women in the textile mills](images/mill3.jpg)
 
 
