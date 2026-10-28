@@ -15,6 +15,6 @@ Bombay is the Western region of Inida. It is a port city which was famous for it
 
 ![a short caption](images/mill1.jpg)
 
-![a short caption](images/mill2.jpg)
+![a short caption](images/mill3.jpg)
 
 
