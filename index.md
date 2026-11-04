@@ -1,3 +1,9 @@
+---
+layout: default
+---
+ 
+{% include nav.html %}
+
 # Bombay textile Mills 1880-1990
 
 A spatial history of how this place is connected to the larger world.
