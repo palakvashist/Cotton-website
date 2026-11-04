@@ -15,10 +15,6 @@ A spatial history of how this place is connected to the larger world.
 
 [Read the essay](essay.html)
 
-![The working of the mill](images/mill.jpg)
 
-![The glorius Bombay Mills](images/mill1.jpg)
-
-![Women in the textile mills](images/mill3.jpg)
 
 
