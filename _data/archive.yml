@@ -1,0 +1,17 @@
+- file: "mill.jpg"
+  title: "The working of the mill"
+  alt: "Workers operating machines inside a Bombay textile mill"
+  date: "[add the date, or write: date unknown]"
+  source: "[add the source]"
+
+- file: "mill1.jpg"
+  title: "The glorious Bombay Mills"
+  alt: "A Bombay textile mill seen from outside"
+  date: "[add the date, or write: date unknown]"
+  source: "[add the source]"
+
+- file: "mill3.jpg"
+  title: "Women in the textile mills"
+  alt: "Women working in a Bombay textile mill"
+  date: "[add the date, or write: date unknown]"
+  source: "[add the source]"
